@@ -6,7 +6,7 @@ pip install django
 ```
 **Yuklab Olish**
 ```
-git clone https://github.com/fazliddinbaxtiyorov/django_wikiredia_app.git
+git clone https://github.com/fazliddinbaxtiyorov/django_wikipedia_app.git
 ```
 
 **Dasturni Ishlatish**
